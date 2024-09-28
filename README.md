@@ -11,4 +11,4 @@ ND (including 2D) SAGE: https://colab.research.google.com/drive/1LpcqEqx0-nKfdnJ
 ND (Including 2D) SAGE: https://colab.research.google.com/drive/1LZd8H19fo7LX4JFgYTLwTC75b2un8WJW
 ## Libraries
 SAGE is part of the NIST Hermes library: https://github.com/usnistgov/hermes \
-It can also be called through the SAGE library found here (SAGE_240821a.zip).
+It can also be called through the SAGE library found here (SAGE_240821a.zip) or the older version of the Hermes library found here (Hermes_240821a.zip).
