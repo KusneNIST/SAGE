@@ -1,6 +1,9 @@
 # SAGE
 Supporting code for the paper: Kusne, AG, McDannald, A, DeCost, B, "Learning material synthesis–process–structure–property relationship by data fusion: Bayesian co-regionalization N-dimensional piecewise function learning", Digital Discovery, 2024, http://dx.doi.org/10.1039/D4DD00048J.
 * If there are any issues, please contact: aaron.kusne@nist.gov
+
+After a recent update to colab, there are now conflicts between the libraries imported and colab's background libraries. We are working to figure this out.
+
 ## Colab:
 You can find colabs for the examples in the paper here:
 ### Use of ONLY [Hermes](https://github.com/usnistgov/hermes) or SAGE library:
