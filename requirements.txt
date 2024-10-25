@@ -1,12 +1,9 @@
 gpjax==0.6.9
-gpytorch==1.11
 jax==0.4.23
 jaxlib==0.4.23
 pyro-ppl==1.8.6
 scikit-learn==1.4.0
 scikit-learn-extra==0.3.0
-tensorflow==2.8.2
-tensorflow-probability==0.16.0
 torch==2.2.0
 torchaudio==2.2.0
 torchvision==0.17.0
