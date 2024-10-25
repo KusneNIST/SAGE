@@ -102,9 +102,9 @@ tensorstore==0.1.53
 termcolor==2.4.0
 threadpoolctl==3.2.0
 toolz==0.12.1
-torch==2.2.0+cu121
-torchaudio==2.2.0+cu121
-torchvision==0.17.0+cu121
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
 tqdm==4.66.1
 typeguard==2.13.3
 tzdata==2023.4
