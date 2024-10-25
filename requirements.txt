@@ -24,7 +24,7 @@ gast==0.5.4
 google-auth==2.27.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-gpflow==2.2.1
+gpflow
 gpjax==0.6.9
 gpy==1.13.1
 gpytorch==1.11
