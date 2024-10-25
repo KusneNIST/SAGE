@@ -29,8 +29,6 @@ gpjax==0.6.9
 gpy==1.13.1
 gpytorch==1.11
 grpcio==1.60.1
-h5py==3.10.0
-hdf5plugin==4.4.0
 importlib-resources==6.1.1
 jax==0.4.23
 jaxlib==0.4.23
@@ -58,7 +56,6 @@ oauthlib==3.2.2
 opt-einsum==3.3.0
 optax==0.1.9
 orbax-checkpoint==0.5.3
-paho-mqtt==2.0.0
 pandas==2.2.0
 paramz==0.9.6
 pillow==10.2.0
@@ -88,8 +85,6 @@ scikit-learn-extra==0.3.0
 scipy==1.11.4
 silx==2.0.0
 simple-pytree==0.1.7
-simpy==4.1.1
-sympy==1.12
 tabulate==0.9.0
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
