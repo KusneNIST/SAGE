@@ -17,5 +17,6 @@ Notebooks provided:
 The provided `Hermes` library (folder: hermes, zip: hermes_240821a.zip) is an older version. \
 The newest version of `Hermes` can be found here: https://github.com/usnistgov/hermes \
 All SAGE functions can also be called through the SAGE library found here (folder: sage, zip:SAGE_240821a.zip). \
-To do so, simply change the call hermes.(function) to sage.(function)
+To do so, simply change the call hermes.(function) to sage.(function) \
+e.g., replace hermes.SAGE_1D with sage.SAGE_1D.
 
