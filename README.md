@@ -2,8 +2,6 @@
 Supporting code for the paper: Kusne, AG, McDannald, A, DeCost, B, "Learning material synthesis–process–structure–property relationship by data fusion: Bayesian co-regionalization N-dimensional piecewise function learning", Digital Discovery, 2024, http://dx.doi.org/10.1039/D4DD00048J.
 * If there are any issues, please contact: aaron (dot) kusne (at) nist (dot) gov
 
-**After a recent update to colab, there are now conflicts between the imported libraries and colab's background libraries. We are working to figure this out.**
-
 ## Binder:
 You can run the provided notebooks in the Binder environment: https://mybinder.org/v2/gh/KusneNIST/SAGE/HEAD
 Notebooks provided:
@@ -13,6 +11,8 @@ Notebooks provided:
 * Full code for regenerating all the figures in the paper:
   * 1D case: (Full paper) SAGE for SPSPR Learning 1D Examples 240821a
   * ND case: (Full paper) SAGE for SPSPR Learning ND 240821a
+ 
+Required libraries can be found in requirements.txt. This code uses Python 3.9.
 
 The provided `Hermes` library (folder: hermes, zip: hermes_240821a.zip) is an older version. \
 The newest version of `Hermes` can be found here: https://github.com/usnistgov/hermes \
