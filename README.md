@@ -14,7 +14,8 @@ Notebooks provided:
   * 1D case: (Full paper) SAGE for SPSPR Learning 1D Examples 240821a
   * ND case: (Full paper) SAGE for SPSPR Learning ND 240821a
 
-The provided `Hermes` library (folder: hermes, zip: hermes_240821a.zip) is an older version of the one here: https://github.com/usnistgov/hermes \
-It can also be called through the SAGE library found here (folder: sage, zip:SAGE_240821a.zip). \
-To do so, simply change the call hermes.<function> to sage.<function>
+The provided `Hermes` library (folder: hermes, zip: hermes_240821a.zip) is an older version. \
+The newest version of `Hermes` can be found here: https://github.com/usnistgov/hermes \
+All SAGE functions can also be called through the SAGE library found here (folder: sage, zip:SAGE_240821a.zip). \
+To do so, simply change the call hermes.(function) to sage.(function)
 
